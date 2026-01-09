@@ -1,8 +1,5 @@
 # RISCV OS
 
-## Tagline
-Lightweight educational operating system with cooperative multithreading and time-sharing support.
-
 ## Overview
 **RISCV OS** is a minimalistic, educational operating system kernel designed for the **RISC-V RV64IMA architecture**. It provides a platform for learning core OS concepts such as **thread management, memory allocation, and synchronization**, while keeping the implementation accessible and easy to understand.
 
