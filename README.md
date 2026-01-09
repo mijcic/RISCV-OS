@@ -57,7 +57,6 @@ All layers work within a single address space. The kernel executes in privileged
 ## Tech Stack
 
 - **Programming Languages**: C++, RISC-V Assembly  
-- **Build Tools**: GNU Make, RISC-V GCC Toolchain  
 
 ---
 
